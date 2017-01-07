@@ -13,6 +13,9 @@ coding_style:
         additive: false
         concatenation: true
 build:
+  environment:
+    php:
+      version: 7.0
   tests:
     override:
       -
