@@ -13,6 +13,4 @@ coding_style:
         additive: false
         concatenation: true
 tools:
-  external_code_coverage:
-    timeout: 600
-    runs: 3
+  external_code_coverage: true
