@@ -1,3 +1,8 @@
+[![Travis](https://img.shields.io/travis/mattmezza/blog-manager.svg)]()
+[![Scrutinizer Coverage](https://img.shields.io/scrutinizer/coverage/g/mattmezza/blog-manager.svg)]()
+[![Scrutinizer](https://img.shields.io/scrutinizer/g/mattmezza/blog-manager.svg)]()
+[![Packagist](https://img.shields.io/packagist/v/mattmezza/blog-manager.svg)]()
+
 blog-manager
 =====
 
