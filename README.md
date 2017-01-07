@@ -3,6 +3,8 @@ blog-manager
 
 A PHP utility class to manage a small blog with files and markdown syntax
 
+`composer require mattmezza/blog-manager`
+
 ```php
 require_once 'vendor/autoload.php';
 
