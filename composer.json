@@ -1,0 +1,24 @@
+{
+    "name": "mattmezza/blog-manager",
+    "description": "An utility to manage a small blog with files and markdown syntax",
+    "type": "library",
+    "require": {
+        "erusev/parsedown-extra": "^0.7.1",
+        "symfony/yaml": "^3.2"
+    },
+    "require-dev": {
+      "phpunit/phpunit": "^5.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matteo Merola",
+            "email": "mattmezza@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Blog\\": "src/"
+      }
+    }
+}
